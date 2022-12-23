@@ -1,0 +1,4 @@
+rules is very simple:
+press up key to move upword and down key for down
+z for scaling and x for returning normal
+c for rotation and v for returning normal
